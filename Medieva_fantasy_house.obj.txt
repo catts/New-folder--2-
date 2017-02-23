@@ -1,0 +1,6 @@
+Unable to locate texture file "plant.tga".
+Unable to locate texture file "roof.psd".
+Unable to locate texture file "window.psd".
+Unable to locate texture file "brick_medieval.psd".
+Unable to locate texture file "wood_planks_old_0087_01_preview.jpg".
+Unable to locate texture file "wall.psd".
